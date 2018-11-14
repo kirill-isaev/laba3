@@ -11,13 +11,13 @@ $ open https://git-scm.com
 - [ ] 1. Создать публичный репозиторий с названием **lab03** и с лиценцией **MIT**
 - [ ] 2. Ознакомиться со ссылками учебного материала
 - [ ] 3. Выполнить инструкцию учебного материала
-- [ ] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Alexey01M
-$ export GITHUB_EMAIL=B2017-17VIU01M.yandex.ru
+$ export GITHUB_USERNAME=kirill-isaev
+$ export GITHUB_EMAIL=kirill.isaev.yahoo.com
 $ alias edit=<vi>
 ```
 
